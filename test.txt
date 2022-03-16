@@ -9,8 +9,5 @@ I am Taka.
 
 I'm Homar.
 
-<<<<<<< HEAD
 I'm Hyunseo.
-=======
 I'm Minji.
->>>>>>> ab308e113f22f51f67df4ad8b783001cfbea5fe7
